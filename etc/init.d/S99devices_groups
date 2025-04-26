@@ -1,0 +1,10 @@
+chgrp i2c /dev/i2c-*
+chmod g+wr /dev/i2c-*
+chgrp tty /dev/ttyS1
+chmod g+wr /dev/ttyS1
+chgrp tty /dev/ttyS2
+chmod g+wr /dev/ttyS2
+chgrp tty /dev/ttyS3
+chmod g+wr /dev/ttyS3
+chgrp tty /dev/ttyS4
+chmod g+wr /dev/ttyS4
