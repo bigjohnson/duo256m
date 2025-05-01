@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 I2CPORT=1
 MCP23017=0x20
 IODIRA=0x00
