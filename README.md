@@ -10,4 +10,4 @@ To run these examples you should:
 - install python-periphery with pip as root
 - download and run examples as the new user created
 
-![Pic4](media/i2c.png)
+![Pic4](media/i2c.jpg)
