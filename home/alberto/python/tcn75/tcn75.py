@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#modify from https://github.com/bigjohnson/duo256m/blob/main/home/alberto/python/tcn75/tcn75.py
 #-*- encoding: utf-8 -*-
 import argparse
 import time
