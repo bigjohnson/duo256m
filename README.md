@@ -11,3 +11,5 @@ To run these examples you should:
 - download and run examples as the new user created
 
 ![Pic4](media/i2c.jpg)
+
+Watch video: https://youtube.com/shorts/3lwKyLulR9I?feature=share
