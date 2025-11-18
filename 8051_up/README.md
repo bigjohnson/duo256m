@@ -1,4 +1,4 @@
-### How compile 8051_up
+# How compile 8051_up
 
 ## Download duo-8051
 
@@ -27,4 +27,5 @@ CFLAGS += -Isys_inc
 make
 
 if there are some errors with not defined environment assure you are running after source envsetup.sh 
+
 
